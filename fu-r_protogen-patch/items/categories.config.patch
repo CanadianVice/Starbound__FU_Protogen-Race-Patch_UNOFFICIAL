@@ -1,0 +1,14 @@
+[
+	[
+		{ 
+			"op": "test", 
+			"path": "/labels/protogenrace1",
+			"inverse": true 
+		},
+		{ 
+			"op": "add", 
+			"path": "/labels/protogenrace1",
+			"value": "Protogen"
+		}
+	]
+]

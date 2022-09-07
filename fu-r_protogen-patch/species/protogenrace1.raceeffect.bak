@@ -1,0 +1,248 @@
+{
+    "stats": [
+        {
+            "stat": "maxHealth",
+            "baseMultiplier": 1.1
+        },
+        {
+            "stat": "maxEnergy",
+            "baseMultiplier": 1.3
+        },
+        {
+            "stat": "energyRegenPercentageRate",
+            "baseMultiplier": 1.1
+        },
+        {
+            "stat": "energyRegenBlockTime",
+            "baseMultiplier": 0.7
+        },
+        {
+            "stat": "powerMultiplier",
+            "baseMultiplier": 1.15
+        },
+        {
+            "stat": "fallDamageMultiplier",
+            "baseMultiplier": 1.05
+        },
+        {
+            "stat": "fireResistance",
+            "amount": 0.15
+        },
+        {
+            "stat": "iceResistance",
+            "amount": 0.15
+        },
+        {
+            "stat": "physicalResistance",
+            "amount": 0.15
+        },
+        {
+            "stat": "poisonResistance",
+            "amount": 1
+        },
+        {
+            "stat": "radioactiveResistance",
+            "amount": -0.3
+        },
+        {
+            "stat": "electricResistance",
+            "amount": -0.15
+        },
+        {
+            "stat": "cosmicResistance",
+            "amount": -0.05
+        },
+        {
+            "stat": "grit",
+            "amount": 0.1
+        },
+        {
+            "stat": "fujungleslowImmunity",
+            "amount": 1
+        },
+        {
+            "stat": "jungleslowImmunity",
+            "amount": 1
+        },
+        {
+            "stat": "poisonImmunity",
+            "amount": 1
+        },
+        {
+            "stat": "poisonstatusImmunity",
+            "amount": 1
+        },
+        {
+            "stat": "slimeImmunity",
+            "amount": 1
+        },
+        {
+            "stat": "insanityImmunity",
+            "amount": 1
+        },
+        {
+            "stat": "mudslowImmunity",
+            "amount": 0
+        },
+        {
+            "stat": "fumudslowImmunity",
+            "amount": 0
+        },
+        {
+            "stat": "snowslowImmunity",
+            "amount": 0
+        },
+        {
+            "stat": "slushslowImmunity",
+            "amount": 0
+        },
+        {
+            "stat": "fuclayslowImmunity",
+            "amount": 1
+        },
+        {
+            "stat": "snowslipImmunity",
+            "amount": 1
+        },
+        {
+            "stat": "iceslipImmunity",
+            "amount": 1
+        },
+        {
+            "stat": "slimefrictionImmunity",
+            "amount": 1
+        },
+        {
+            "stat": "beestingImmunity",
+            "amount": 1
+        },
+        {
+            "stat": "biomecoldImmunity",
+            "amount": 1
+        },
+        {
+            "stat": "biomeheatImmunity",
+            "amount": 1
+        },
+        {
+            "stat": "biomeradiationImmunity",
+            "amount": 0
+        },
+        {
+            "stat": "breathProtection",
+            "amount": 1
+        },
+        {
+            "stat": "sandstormImmunity",
+            "amount": 1
+        },
+        {
+            "stat": "waterbreathProtection",
+            "amount": 1
+        },
+        {
+            "stat": "pressureProtection",
+            "amount": 1
+        },
+        {
+            "stat": "extremepressureProtection",
+            "amount": 1
+        },
+        {
+            "stat": "icestatusImmunity",
+            "amount": 1
+        },
+        {
+            "stat": "coldImmunity",
+            "amount": 1
+        },
+        {
+            "stat": "ffextremecoldImmunity",
+            "amount": 1
+        }
+    ],
+    "diet": "omnivore",
+    "controlModifiers": {
+        "jumpModifier": 1.25
+    },
+    "envEffects": [],
+    "weaponEffects": [
+        {
+            "weapons": [
+                "bow"
+            ],
+            "stats": [
+                {
+                    "stat": "critChance",
+                    "amount": 35
+                },
+                {
+                    "stat": "critDamage",
+                    "baseMultiplier": 1.65
+                },
+                {
+                    "stat": "powerMultiplier",
+                    "baseMultiplier": 1.15
+                },
+                {
+                    "stat": "maxEnergy",
+                    "baseMultiplier": 1.2
+                },
+                {
+                    "stat": "energyRegenPercentageRate",
+                    "baseMultiplier": 1.4
+                }
+            ]
+        },
+        {
+            "weapons": [
+                "magnorb"
+            ],
+            "stats": [
+                {
+                    "stat": "critChance",
+                    "amount": 10
+                },
+                {
+                    "stat": "critDamage",
+                    "baseMultiplier": 1.25
+                },
+                {
+                    "stat": "energyRegenPercentageRate",
+                    "baseMultiplier": 2.5
+                },
+                {
+                    "stat": "protection",
+                    "effectiveMultiplier": 1.25
+                }
+            ]
+        },
+        {
+            "weapons": [
+                "energy"
+            ],
+            "stats": [
+                {
+                    "stat": "powerMultiplier",
+                    "amount": 1.15
+                },
+                {
+                    "stat": "critChance",
+                    "amount": 25
+                },
+                {
+                    "stat": "critDamage",
+                    "baseMultiplier": 1.5
+                },
+                {
+                    "stat": "energyRegenPercentageRate",
+                    "baseMultiplier": 2.5
+                },
+                {
+                    "stat": "maxEnergy",
+                    "baseMultiplier": 1.3
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+[
+    { "op": "replace", 
+    "path" : "/charCreationTooltip/description" ,
+    "value" : ""
+    },
+    { "op": "replace", 
+    "path" : "/charCreationTooltip/description" , 
+    "value" : "Awakened in a long-abandoned biotech lab, the Protogen are a race of cyborg creatures. They find purpose in the directive that is their common inheritance: a call to explore the furthest reaches of the universe.
+
+   \"We all gaze at the vast, dazzling night sky and dream.
+    Our creators built the cosmos with a generous spirit, 
+    leaving us each our own star - yearning to be found.\"
+
+Code or creed, there is one certainty: the Protogen thrive on the search.
+
+=== Race Traits ===
+     [ Diet: Omnivorous ]
+     [ Perks: +30% Energy, +15% DMG, +10% Energy+, +10% HP ]
+     [ R: +15% Ice, +15% Fire, +15% Physical ]
+     [ W: -15% Elec, -30% Rad , -5% Cosmic, +5% Fall DMG ]
+     [ Immune: Poison, Insanity ]
+  + Equipment Modifiers ===
+     [ Energy: ++ Energy+, +25 Crit%, +30% Energy, +15% DMG ]
+     [ Bow: +15% DMG, +35 Crit%, +65% CritX, +40% Energy+,
+      -35% Draw ]
+     [ Magnorb: +10 Crit%, +25% CritX, ++ Energy+, +25% Shield ]
+  + Environmental Modifiers ===
+     Maladapted: Rad, Liquid-N 
+        Tile: -Speed (Snow, Mud)
+     Immune: Suffocation, Temp, Pressure
+        Tile: Slide/Stick, Jungle, Ice"
+    }
+]
