@@ -8,8 +8,8 @@ FU already includes basic stats officially, but they're pretty mundane.
 This mod is **not officially** sanctioned by either mentioned project. Do not contact them for support or comments/concerns. 
    
 ## Installation Instructions
-⚠ You must have *Frackin Universe* by Sayter, and *Protogen Race Mod* by Bun/Shotshell156; this mod does nothing without them.  
-⚠ The files here are for non-steam ONLY. See the [*Steam Workshop*](https://steamcommunity.com/sharedfiles/filedetails/?id=2808096136) to install for Steam.  
+⚠ You must have *Frackin Universe* by Sayter, and *Protogen Race Mod* by Bun/Shotshell156; see the 'Required Mods' section below.
+⚠ The compiled PAK here is not for Steam. See the [*Steam Workshop*](https://steamcommunity.com/sharedfiles/filedetails/?id=2808096136) to install for Steam.  
 1. Download the [.PAK](https://github.com/CanadianVice/FU_Protogen-Race-Patch_UNOFFICIAL/blob/main/fu_protogen1_racepatch.pak) file in this repository. 
 2. Go into the game files directory where starbound.exe (a level deeper) is on your system.
 [ \Starbound\mods ]
@@ -27,7 +27,7 @@ Preview:
 <img src="https://github.com/CanadianVice/FU_Protogen-Race-Patch_UNOFFICIAL/blob/main/related_files/steam_listing/stats_ss.png" alt="Screenshot of Protogen Species Description Post-Patch" width="337px" height="337px">
 </div>
   
-## Required Mod Downloads
+## Dependencies / Required Mods
 * [**Protogen Race Mod**](https://community.playstarbound.com/resources/protogen-race.5802/) by Bun/Shotshell156
 * [**Frackin' Universe**](https://github.com/sayterdarkwynd/FrackinUniverse) by Sayter
 
