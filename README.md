@@ -1,4 +1,4 @@
-# [UNOFFICIAL] Protogen Race Patch for Frackin' Universe
+# [UNOFFICIAL] Protogen Race Patch for Frackin' Universe [ **STARBOUND** ]
 Gives your character unique stats, really letting them shine with Frackin' Universe by integrating Bun/Shotshell156's "Protogen Race Mod" with Frackin' Universe's stats system. Requires both mods to play.
 
 FU already includes basic stats officially, but they're pretty mundane.
