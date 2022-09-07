@@ -9,7 +9,7 @@ This mod is **not officially** sanctioned by either mentioned project. Do not co
    
 ## Installation Instructions [Non-Steam]
 ⚠ You must have *Frackin Universe* by Sayter, and *Protogen Race Mod* by Bun/Shotshell156; this mod does nothing without them.
-1. Download the .PAK file in this repository. 
+1. Download the [.PAK](https://github.com/CanadianVice/FU_Protogen-Race-Patch_UNOFFICIAL/blob/main/fu_protogen1_racepatch.pak) file in this repository. 
 2. Go into the game files directory where starbound.exe (a level deeper) is on your system.
 [ \Starbound\mods ]
 3. Place the .PAK file there
