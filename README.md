@@ -5,12 +5,11 @@ Gives your character unique stats, really letting them shine with Frackin' Unive
 
 FU already includes basic stats officially, but they're pretty mundane.
 
-⚠ The compiled PAK is for non-steam ONLY. See the [*Steam Workshop*](https://steamcommunity.com/sharedfiles/filedetails/?id=2808096136) to install for Steam.
-
 This mod is **not officially** sanctioned by either mentioned project. Do not contact them for support or comments/concerns. 
    
-## Installation Instructions [Non-Steam]
-⚠ You must have *Frackin Universe* by Sayter, and *Protogen Race Mod* by Bun/Shotshell156; this mod does nothing without them.
+## Installation Instructions
+⚠ You must have *Frackin Universe* by Sayter, and *Protogen Race Mod* by Bun/Shotshell156; this mod does nothing without them.  
+⚠ The files here are for non-steam ONLY. See the [*Steam Workshop*](https://steamcommunity.com/sharedfiles/filedetails/?id=2808096136) to install for Steam.  
 1. Download the [.PAK](https://github.com/CanadianVice/FU_Protogen-Race-Patch_UNOFFICIAL/blob/main/fu_protogen1_racepatch.pak) file in this repository. 
 2. Go into the game files directory where starbound.exe (a level deeper) is on your system.
 [ \Starbound\mods ]
