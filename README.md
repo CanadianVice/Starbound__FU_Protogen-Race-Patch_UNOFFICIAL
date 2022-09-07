@@ -38,7 +38,7 @@ Licensed under CC Attribution 4.0 International Public License - Viewable [here]
 ### Attribution per Frackin' Universe's Licensing
 Not technically sure it's required given this is more like patching into an existing API than modifying actual files, but this mod is *based on a template from Sayter's Frackin Universe mod*. 
 
-Please see Sayter's [**git**](https://github.com/sayterdarkwynd/FrackinUniverse) for more information about Frackin' Universe. 
+Please see Sayter's [**git**](https://github.com/sayterdarkwynd/FrackinUniverse) for more information about Frackin' Universe.  
 **My mod and myself are not affiliated with or endorsed by Frackin Universe or Sayter.**
 
 
