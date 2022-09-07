@@ -14,13 +14,13 @@ FU already includes basic stats officially, but they're pretty mundane.
 ..* Note: I don't have the non-Steam installed, so it's possible you may just need bare folders. Google's your friend.
 4. Badabing Badaboom, you're done.
 	 
-For further information about the mod, please see the [*Steam Workshop*](https://steamcommunity.com/sharedfiles/filedetails/?id=2808096136)
+For further information about the mod, please see the [*Steam Workshop*](https://steamcommunity.com/sharedfiles/filedetails/?id=2808096136).
   
 It will have further explanation as to the stats changed, why, and most other relevant information.
   
 Preview:
 <div align="center">
-<img src="https://github.com/CanadianVice/FU_Protogen-Race-Patch_UNOFFICIAL/blob/main/related_files/steam_listing/stats_ss.png" alt="Screenshot of Protogen Species Description Post-Patch">
+<img src="https://github.com/CanadianVice/FU_Protogen-Race-Patch_UNOFFICIAL/blob/main/related_files/steam_listing/stats_ss.png" alt="Screenshot of Protogen Species Description Post-Patch" width="337px" height="337px">
 </div>
   
 ## Required Mod Downloads
