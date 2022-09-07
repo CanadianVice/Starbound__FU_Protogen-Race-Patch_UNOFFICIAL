@@ -13,8 +13,8 @@ This mod is **not officially** sanctioned by either mentioned project. Do not co
 2. Go into the game files directory where starbound.exe (a level deeper) is on your system.
 [ \Starbound\mods ]
 3. Place the .PAK file in a distinct folder. Name shouldn't matter.
-..* Note: I don't have the non-Steam installed, so it's possible you may just need bare folders. Google's your friend.
-..* Presumably, [this method](https://starbounder.org/Mods/Installation#Install_Guide_for_Starbound_Mods) works.
+  * Note: I don't have the non-Steam installed, so it's possible you may just need bare folders. Google's your friend.
+  * Presumably, [this method](https://starbounder.org/Mods/Installation#Install_Guide_for_Starbound_Mods) works.
 4. Badabing Badaboom, you're done.
 	 
 For further information about the mod, please see the [*Steam Workshop*](https://steamcommunity.com/sharedfiles/filedetails/?id=2808096136).
