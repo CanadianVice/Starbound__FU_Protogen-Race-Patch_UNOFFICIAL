@@ -1,5 +1,5 @@
 # [UNOFFICIAL] Protogen Race Patch for Frackin' Universe 
-For [ **STARBOUND** ] [[Steam](https://store.steampowered.com/app/211820/Starbound/) | [GoG](https://www.gog.com/en/game/starbound)]
+> Game: Starbound | (Buy it on: [Steam](https://store.steampowered.com/app/211820/Starbound/), [GoG](https://www.gog.com/en/game/starbound))
 
 Gives your character unique stats, really letting them shine with Frackin' Universe by integrating Bun/Shotshell156's "Protogen Race Mod" with Frackin' Universe's stats system. Requires both mods to play.
 
