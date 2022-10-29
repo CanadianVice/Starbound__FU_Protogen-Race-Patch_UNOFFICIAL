@@ -4,8 +4,8 @@
   "friendlyName" : "Protogen Race Patch for Frackin' Universe [UNOFFICIAL]",
   "includes" : ["FrackinUniverse", "Protogen Mod"],
   "link" : "steam://url/CommunityFilePage/2808096136",
-  "name" : "FU-Races Patch: Protogen",
+  "name" : "FU Race Patch: Protogen",
   "steamContentId" : "2808096136",
   "tags" : "Species",
-  "version" : "1.00"
+  "version" : "2.00"
 }
