@@ -5,7 +5,6 @@ Gives your character unique stats, really letting them shine with Frackin' Unive
 
 FU already includes basic stats officially, but they're pretty mundane.
 
-⚠ Do you use Frackin *Races*? See: [V1.00 FR Vers.](https://github.com/CanadianVice/Starbound__FU_Protogen-Race-Patch_UNOFFICIAL/releases/tag/v1.0.0) for files. Manual install only. Untested.
 ⚠ The compiled PAK is for non-steam ONLY. See the [*Steam Workshop*](https://steamcommunity.com/sharedfiles/filedetails/?id=2808096136) to install for Steam.
 
 This mod is **not officially** sanctioned by either mentioned project. Do not contact them for support or comments/concerns. 
@@ -27,13 +26,14 @@ It will have further explanation as to the stats changed, why, and most other re
   
 Preview:
 <div align="center">
-<img src="https://github.com/CanadianVice/FU_Protogen-Race-Patch_UNOFFICIAL/blob/main/related_files/steam_listing/stats_ss.png" alt="Screenshot of Protogen Species Description Post-Patch" width="337px" height="337px">
+<img src="https://github.com/CanadianVice/FU_Protogen-Race-Patch_UNOFFICIAL/blob/main/related_files/steam_listing/stats_ss.png" alt="Screenshot of Protogen Species Description" width="337px" height="337px">
 </div>
   
 ## Dependencies / Required Mods
 * [**Protogen Race Mod**](https://community.playstarbound.com/resources/protogen-race.5802/) by Bun/Shotshell156
 * [**Frackin' Universe**](https://github.com/sayterdarkwynd/FrackinUniverse) by Sayter
-⚠ **Note: Frackin' Races is outdated, you may experience significant bugs or crashes due to syntax changes after the FU integration.**
+
+⚠ **Note: Frackin' Races is outdated. Use Frackin' Universe. If you must - Release V1.0.0 *may* work with Races.**
 
 ## License
 Licensed under CC Attribution 4.0 International Public License - Viewable [here](https://creativecommons.org/licenses/by/4.0/legalcode).
