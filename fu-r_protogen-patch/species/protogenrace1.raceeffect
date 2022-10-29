@@ -1,31 +1,40 @@
 {
-	"stats": [{
+	"stats": [
+		{
 			"stat": "maxHealth",
-			"baseMultiplier": 1.1
+			"effectiveMultiplier": 1.1
 		},
 		{
 			"stat": "maxEnergy",
-			"baseMultiplier": 1.3
+			"effectiveMultiplier": 1.2
 		},
 		{
-			"stat": "breathDepletionRate",
-			"baseMultiplier": 0.65
+			"stat": "maxBreath",
+			"amount": 135
+		},
+		{
+			"stat": "foodDelta",
+			"baseMultiplier": 0.801
 		},
 		{
 			"stat": "energyRegenPercentageRate",
-			"baseMultiplier": 1.1
+			"baseMultiplier": 1.129
 		},
 		{
 			"stat": "energyRegenBlockTime",
-			"baseMultiplier": 0.35
+			"baseMultiplier": 0.6667
+		},
+		{
+			"stat": "protection",
+			"effectiveMultiplier": 1.05
 		},
 		{
 			"stat": "powerMultiplier",
-			"baseMultiplier": 1.15
+			"effectiveMultiplier": 1.15
 		},
 		{
 			"stat": "fallDamageMultiplier",
-			"baseMultiplier": 0.85
+			"effectiveMultiplier": 0.85
 		},
 		{
 			"stat": "fireResistance",
@@ -37,7 +46,7 @@
 		},
 		{
 			"stat": "physicalResistance",
-			"amount": 0.20
+			"amount": 0.15
 		},
 		{
 			"stat": "poisonResistance",
@@ -57,14 +66,10 @@
 		},
 		{
 			"stat": "grit",
-			"amount": 0.45
+			"amount": 0.25
 		},
 
 
-		{
-			"stat": "fujungleslowImmunity",
-			"amount": 1
-		},
 		{
 			"stat": "jungleslowImmunity",
 			"amount": 1
@@ -74,16 +79,20 @@
 			"amount": 1
 		},
 		{
-			"stat": "poisonstatusImmunity",
+			"stat": "poisonStatusImmunity",
 			"amount": 1
 		},
 		{
-			"stat": "slimeImmunity",
+			"stat": "poisongasImmunity",
 			"amount": 1
 		},
 		{ 
 			"stat" : "slimestickImmunity",
 			"amount" : 1
+		},
+		{
+			"stat": "slimeImmunity",
+			"amount": 1
 		},
 		{
 			"stat": "insanityImmunity",
@@ -106,10 +115,6 @@
 			"amount": 1
 		},
 		{
-			"stat": "fuclayslowImmunity",
-			"amount": 1
-		},
-		{
 			"stat": "snowslipImmunity",
 			"amount": 1
 		},
@@ -118,9 +123,10 @@
 			"amount": 1
 		},
 		{
-			"stat": "slimefrictionImmunity",
+			"stat": "fuclayslowImmunity",
 			"amount": 1
 		},
+
 		{
 			"stat": "beestingImmunity",
 			"amount": 0
@@ -134,30 +140,6 @@
 			"amount": 1
 		},
 		{
-			"stat": "biomeradiationImmunity",
-			"amount": 0
-		},
-		{
-			"stat": "breathProtection",
-			"amount": 0
-		},
-		{
-			"stat": "sandstormImmunity",
-			"amount": 1
-		},
-		{
-			"stat": "waterbreathProtection",
-			"amount": 0
-		},
-		{
-			"stat": "pressureProtection",
-			"amount": 0
-		},
-		{
-			"stat": "extremepressureProtection",
-			"amount": 0
-		},
-		{
 			"stat": "icestatusImmunity",
 			"amount": 1
 		},
@@ -166,27 +148,29 @@
 			"amount": 1
 		},
 		{
-			"stat": "ffextremecoldImmunity",
-			"amount": 0
+			"stat": "sandstormImmunity",
+			"amount": 1
 		},
 
 
+
 		{
-			"stat": "jumptechBonus",
+			"stat": "jumpTechBonus",
 			"amount": 0.15
 		},
 		{
-			"stat": "dashtechBonus",
-			"amount": 0.25
+			"stat": "dashTechBonus",
+			"amount": 0.2
 		},
 		{
-			"stat": "defensetechBonus",
-			"amount": 0.25
+			"stat": "defenseTechBonus",
+			"amount": 0.15
 		}
 	],
 	"diet": [ { "ORGANIC" : false, "MEAT" : false, "ROBOT_PLANT": false } ],
 	"controlModifiers": {
-		"jumpModifier": 1.25
+		"jumpModifier": 1.1,
+		"airJumpModifier": 1.1
 	},
 	"envEffects": [],
 	"weaponEffects": [{
@@ -199,7 +183,7 @@
 				},
 				{
 					"stat": "critDamage",
-					"baseMultiplier": 1.25
+					"amount": 0.375
 				},
 				{
 					"stat": "powerMultiplier",
@@ -222,12 +206,12 @@
 				},
 				{
 					"stat": "critDamage",
-					"baseMultiplier": 1.05
+					"amount": 0.075
 				},
 				
 				{
 					"stat": "protection",
-					"amount": 6
+					"amount": 5
 				}
 			]
 		},
@@ -245,17 +229,17 @@
 				},
 				{
 					"stat": "critDamage",
-					"baseMultiplier": 1.1
+					"amount": 0.15
 				},
 				{
 					"stat": "maxEnergy",
-					"baseMultiplier": 1.5
+					"baseMultiplier": 1.4
 				}
 			]
 		},
 		{
 			"weapons": [
-				"sniper"
+				"sniperrifle"
 			],
 			"stats": [{
 					"stat": "powerMultiplier",
@@ -267,15 +251,15 @@
 				},
 				{
 					"stat": "critDamage",
-					"baseMultiplier": 1.40
+					"amount": 0.6
 				},
 				{
 					"stat": "maxEnergy",
-					"baseMultiplier": 1.1
+					"baseMultiplier": 1.4
 				},
 				{
-					"stat": "grit",
-					"amount": 1.5
+					"stat": "energyRegenBlockTime",
+					"baseMultiplier": 0.53
 				}
 			]
 		},
@@ -289,7 +273,7 @@
 				},
 				{
 					"stat": "critDamage",
-					"baseMultiplier": 1.30
+					"amount": 0.75
 				},
 				{
 					"stat": "maxEnergy",

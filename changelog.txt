@@ -1,0 +1,51 @@
+v2.0 =====================================
+Fix patch to model off new Frackin Universe species stats; this should correct some oddities.
+ * Max_Health unchanged
+ * Max_Energy 1.3 -> 1.2
+ ~ Food_Delta [70->0/20m] -> (70->0/25m) (25 minutes)
+ * Energy_Regen [0.585->1.75s] -> (0.5248->1.57) = -10% faster
+ * Energy_RegenBlock [1.5s] -> (1s) = -33%
+ * Power_Multiplier [1] -> (1.15) = +15%
+ * Fall_DamageMult [1] -> (0.85) = -15%
+ + Protection [0] -> (0.05) = +5% Damage Reduction
+
+ Resistances:
+ * Fire = +15%
+ * Ice = +15%
+ ~ Physical = +15%
+ * Poison = 100% (Immune)
+ * Radioactive = -25%
+ * Electric = -15%
+ * Costmic = -10%
+ ~ Grit (Heavy Knockback) [0]->(0.25) = +25%
+
+Immunities:
+~ Poison + status -> Status should properly remove now (case issue)
+* Insanity
+
+Environmental:
++ PoisonGas = I
+* Insanity
+* Sandstorm = I
+
+Mobility:
+* Jungle (-fujungleslow + jungleslow) = I
++ slimeStick = I (should process properly on slime now) [TILE]
+- SlimeFriction (Only used on enemy atacks?)
++ slimeImmunity (vanilla, unsure)
+* Mudslow (mudslow + fu) = I
+* Snowslow (slow + slip + slushslow) = I
+* Iceslip = I
+* Clay = I
+
+~jumpModifier = 25% -> 10%
++ airJumpModifier 25% -> +10% (ambiguous as to if == higher jump, or other stat)
+
+Tech bonuses:
+~ Protection 25% -> +15%
+~ Jump 25% -> +15%
+~ Dash 25% -> 20% 
+
+WeaponsBonus:
+~ Sniper -> sniperrifle wasn't applying
+~ Magnorb 6% Def -> 5% Def
