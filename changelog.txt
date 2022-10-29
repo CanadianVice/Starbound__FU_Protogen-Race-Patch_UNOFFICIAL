@@ -1,3 +1,10 @@
+v2.0.1 ===================================
+Adjusted some obviously overpowered stats, fixed some values.
+- Energy block reduced from 33%->15% base and 50%->5% sniper
+- Protection fixed, reduced base: 5%->2.5%
+- Energy value corrected for +10%
+
+
 v2.0 =====================================
 Fix patch to model off new Frackin Universe species stats; this should correct some oddities.
  * Max_Health unchanged

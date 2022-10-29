@@ -12,8 +12,8 @@ Code or creed, there's one certainty: they thrive on the search.
 
 ^darkcyan;=== Racial Traits ===^reset;
 [ Diet: Generalized Omnivore | Starvation: ~25 minutes ]
-[ Base: ^pink;+10% Max HP^reset;, ^green;+30% E^reset;, ^green;+10%^reset; ^yellow;+^reset;^green;E^reset;, ^red;+15% DMG^reset;, ^#C9DCE2;+35% Oxygen^reset;
-             -15% Fall, ^green;-65% E^reset;^red;-Blk^reset;, +10% Jump, ^gray;+5 Def^reset; ]
+[ Base: ^pink;+10% Max HP^reset;, ^green;+20% E^reset;, ^green;+10%^reset; ^yellow;+^reset;^green;E^reset;, ^red;+15% DMG^reset;, ^#C9DCE2;+35% Oxygen^reset;
+             -15% Fall, ^green;-15% E^reset;^red;-Blk^reset;, +10% Jump, ^gray;+2.5 Def^reset; ]
 [ ^green;R+^reset;: ^orange;+15% Fire^reset;, ^cyan;+15% Ice^reset;, ^red;+15% DMG^reset;, -25% KnockB,  ]
 [ ^red;W-^reset;: ^#DADB62;-25% Rad^reset;, ^violet;-15% Elec^reset;, ^magenta;-10% Cosmic^reset; ]
 [ ^lightgray;Immune^reset;: ^darkgreen;Poison^reset;, ^#9462DB;In^reset;^#DB62B9;sa^reset;^#ECC700;ni^reset;^red;ty^reset;, ^#F2BD03;Sandstorm^reset;, Mod. Temp, Terrain Slows ]

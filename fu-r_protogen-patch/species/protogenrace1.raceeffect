@@ -14,19 +14,19 @@
 		},
 		{
 			"stat": "foodDelta",
-			"baseMultiplier": 0.801
+			"baseMultiplier": 0.8004
 		},
 		{
 			"stat": "energyRegenPercentageRate",
-			"baseMultiplier": 1.129
+			"baseMultiplier": 1.1
 		},
 		{
 			"stat": "energyRegenBlockTime",
-			"baseMultiplier": 0.6667
+			"baseMultiplier": 0.85
 		},
 		{
 			"stat": "protection",
-			"effectiveMultiplier": 1.05
+			"amount": 2.5
 		},
 		{
 			"stat": "powerMultiplier",
@@ -259,7 +259,7 @@
 				},
 				{
 					"stat": "energyRegenBlockTime",
-					"baseMultiplier": 0.53
+					"baseMultiplier": 0.95
 				}
 			]
 		},
