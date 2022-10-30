@@ -42,7 +42,9 @@ This mod makes use of species templates and information from Frackin' Universe b
 Please see the Frackin' Universe [**git**](https://github.com/sayterdarkwynd/FrackinUniverse) for more information.
 
 ## Disclaimer
-**This project is not affiliated with nor officially endorsed by Frackin' Universe or the Protogen Race Mod.**\
+**This project is not affiliated with nor officially endorsed by Frackin' Universe or the Protogen Race Mod.**  
 Do not contact them demanding support, they have nothing to do with this.
+
+This project was put together mostly on a whim, please keep that in mind.
 
 
