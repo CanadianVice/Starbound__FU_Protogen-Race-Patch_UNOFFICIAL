@@ -8,8 +8,7 @@ Gives your character unique stats, really letting them shine with Frackin' Unive
 This mod is **unofficial**. See below for contact information.
 
 ## What's Different From FU's Official Protogen Integration?
-* FU has requirements for stats that may be too restrictive for some tastes. This project does what seems fun - but it may not be 'balanced'.  
-Feedback is welcome!
+* FU has requirements for stats that may be too restrictive for some tastes. This project does what seems fun - but it may not be 'balanced'. *Feedback is welcome!*
 * More direct attention - this handles one species, FU has a plethora to deal with.
 * Emphasis on a good mix of lore compatibility, with some artistic license to mix with Starbound.
 * Protogen weapons are given a racial tag - unique Protogen stats, so you don't miss out!
