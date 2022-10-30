@@ -30,18 +30,19 @@ Preview:
 </div>
   
 ## Dependencies / Required Mods
-* [**Protogen Race Mod**](https://community.playstarbound.com/resources/protogen-race.5802/) by Bun/Shotshell156
-* [**Frackin' Universe**](https://github.com/sayterdarkwynd/FrackinUniverse) by Sayter
+* **Protogen Race Mod** [Forums](https://community.playstarbound.com/resources/protogen-race.5802/) | [Steam](https://steamcommunity.com/workshop/filedetails/?id=1789115955) by *Bun/Shotshell156*
+* **Frackin' Universe** [GitHub](https://github.com/sayterdarkwynd/FrackinUniverse) | [Steam](https://steamcommunity.com/workshop/filedetails/?id=729480149) by *Sayter*
 
 ⚠ **Note: Frackin' Races is outdated. Use Frackin' Universe. If you must - Release V1.0.0 *may* work with Races.**
 
 ## License
 Licensed under CC Attribution 4.0 International Public License - Viewable [here](https://creativecommons.org/licenses/by/4.0/legalcode).
 
-**Attribution per Frackin' Universe's Licensing**  
-Not technically sure it's required given this is more like patching into an existing API than modifying actual files, but this mod is *based on a template from Sayter's Frackin Universe mod*. 
+**Attribution Requirements - Frackin' Universe**  
+This mod makes use of species templates and information from Frackin' Universe by [*Sayter*](https://github.com/sayterdarkwynd/). 
+Please see the Frackin' Universe [**git**](https://github.com/sayterdarkwynd/FrackinUniverse) for more information.
 
-Please see Sayter's [**git**](https://github.com/sayterdarkwynd/FrackinUniverse) for more information about Frackin' Universe.  
-**My mod and myself are not affiliated with or endorsed by Frackin Universe or Sayter.**
+## Disclaimer
+**This project is not affiliated with nor officially endorsed by Frackin' Universe or the Protogen Race Mod.**
 
 
