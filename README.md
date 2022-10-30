@@ -7,7 +7,7 @@ FU already includes basic stats officially, but they're pretty mundane. This mod
 
 ⚠ The compiled PAK is for non-steam ONLY. See the [*Steam Workshop*](https://steamcommunity.com/sharedfiles/filedetails/?id=2808096136) to install for Steam.
 
-This mod is **unofficial**. See the [*Steam Workshop*](https://steamcommunity.com/sharedfiles/filedetails/?id=2808096136) for contact/comment and support information.
+This mod is **unofficial**. See below for contact information.
    
 ## Installation Instructions
 ⚠ You must have *Frackin Universe* by Sayter, and *Protogen Race Mod* by Bun/Shotshell156; see the 'Required Mods' section below.  
@@ -40,6 +40,11 @@ Licensed under CC Attribution 4.0 International Public License - Viewable [here]
 **Attribution Requirements - Frackin' Universe**  
 This mod makes use of species templates and information from Frackin' Universe by [*Sayter*](https://github.com/sayterdarkwynd/).\ 
 Please see the Frackin' Universe [**git**](https://github.com/sayterdarkwynd/FrackinUniverse) for more information.
+
+
+## Contact/Support
+Need something? You can find me on the [ProtogenBound Discord](https://steamcommunity.com/linkfilter/?url=https://discord.gg/2SPKs4Y) under @CanadianVice.  
+Note that I'm not a dedicated mod author, so I make no promises. Please ping **only** me.
 
 ## Disclaimer
 **This project is not affiliated with nor officially endorsed by Frackin' Universe or the Protogen Race Mod.**  
