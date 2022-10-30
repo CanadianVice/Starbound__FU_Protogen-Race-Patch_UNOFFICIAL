@@ -44,7 +44,7 @@ Preview:
 Licensed under CC Attribution 4.0 International Public License - Viewable [here](https://creativecommons.org/licenses/by/4.0/legalcode).
 
 **Attribution Requirements - Frackin' Universe**  
-This mod makes use of species templates and information from Frackin' Universe by [*Sayter*](https://github.com/sayterdarkwynd/).\ 
+This mod makes use of species templates and information from Frackin' Universe by [*Sayter*](https://github.com/sayterdarkwynd/).  
 Please see the Frackin' Universe [**git**](https://github.com/sayterdarkwynd/FrackinUniverse) for more information.
 
 
