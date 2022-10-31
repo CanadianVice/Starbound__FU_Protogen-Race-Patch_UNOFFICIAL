@@ -167,7 +167,7 @@
 			"amount": 0.15
 		}
 	],
-	"diet": [ { "ORGANIC" : false, "MEAT" : false, "ROBOT_PLANT": false } ],
+	"diet": [ { "ORGANIC" : false, "MEAT" : false } ],
 	"controlModifiers": {
 		"jumpModifier": 1.1,
 		"airJumpModifier": 1.1
