@@ -4,6 +4,7 @@
 Gives your character unique stats, really letting them shine with Frackin' Universe by integrating Bun/Shotshell156's "Protogen Race Mod" with Frackin' Universe's stats system. Requires both mods to play. Note: there may be frequent refinements, hitting a good place with these values is a bit trial-and-error.
 
 ⚠ The compiled PAK is for non-steam ONLY. See the [*Steam Workshop*](https://steamcommunity.com/sharedfiles/filedetails/?id=2808096136) to install for Steam.
+⚠ If you use Frackin' **Races** standalone, do NOT install or use this version. See 'What if I use Frackin' Races' for instructions.
 
 This mod is **unofficial**. See below for contact information.
 
