@@ -35,7 +35,7 @@ Firstly: FR is *not* compatible with the mainline patch linked in the areas abov
 - Steam: See the [*Steam Workshop*](https://steamcommunity.com/sharedfiles/filedetails/?id=2885865644) FR-standalone patch. Note: Does NOT work together with the mainline. Only for Frackin' Races.
   If you try to use both versions of this patch, you *will* crash.
   
-Preview:
+## Preview
 <div align="center">
 <img src="https://github.com/CanadianVice/FU_Protogen-Race-Patch_UNOFFICIAL/blob/main/related_files/steam_listing/stats_ss.png" alt="Screenshot of Protogen Species Description" width="337px" height="337px">
 </div>
