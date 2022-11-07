@@ -28,6 +28,12 @@ This mod is **unofficial**. See below for contact information.
 For further information about the mod, please see the [*Steam Workshop*](https://steamcommunity.com/sharedfiles/filedetails/?id=2808096136).
   
 It will have further explanation as to the stats changed, why, and most other relevant information.
+
+## What if I use Frackin' Races?
+Firstly: FR is *not* compatible with the mainline patch linked in the areas above. You *will* crash if you attempt to use that one instead of following the instructions in this segment.
+- Non-Steam: See the installation instructions above, but extract the .pak from the [*zip*](https://github.com/CanadianVice/Starbound__FU_Protogen-Race-Patch_UNOFFICIAL/releases/tag/v1.0.0) instead.
+- Steam: See the [*Steam Workshop*](https://steamcommunity.com/sharedfiles/filedetails/?id=2885865644) FR-standalone patch. Note: Does NOT work together with the mainline. Only for Frackin' Races.
+  If you try to use both versions of this patch, you *will* crash.
   
 Preview:
 <div align="center">
