@@ -1,9 +1,10 @@
 # [UNOFFICIAL] Protogen Race Patch for Frackin' Universe 
 > Game: Starbound | (Buy it on: [Steam](https://store.steampowered.com/app/211820/Starbound/), [GoG](https://www.gog.com/en/game/starbound))
 
-Gives your character unique stats, really letting them shine with Frackin' Universe by integrating Bun/Shotshell156's "Protogen Race Mod" with Frackin' Universe's stats system. Requires both mods to play.
+Gives your character unique stats, really letting them shine with Frackin' Universe by integrating Bun/Shotshell156's "Protogen Race Mod" with Frackin' Universe's stats system. Requires both mods to play. Note: there may be frequent refinements, hitting a good place with these values is a bit trial-and-error.
 
-⚠ The compiled PAK is for non-steam ONLY. See the [*Steam Workshop*](https://steamcommunity.com/sharedfiles/filedetails/?id=2808096136) to install for Steam.
+⚠ The compiled PAK is for non-steam ONLY. See the [*Steam Workshop*](https://steamcommunity.com/sharedfiles/filedetails/?id=2808096136) to install for Steam.  
+⚠ If you use Frackin' **Races** standalone, do not use this version. See headed section 'What if I use Frackin' Races?' below.
 
 This mod is **unofficial**. See below for contact information.
 
@@ -28,8 +29,14 @@ This mod is **unofficial**. See below for contact information.
 For further information about the mod, please see the [*Steam Workshop*](https://steamcommunity.com/sharedfiles/filedetails/?id=2808096136).
   
 It will have further explanation as to the stats changed, why, and most other relevant information.
+
+## What if I use Frackin' Races?
+Firstly: FR is *not* compatible with the mainline patch linked in the areas above. You *will* crash if you attempt to use that one instead of following the instructions in this segment.
+- Non-Steam: See the installation instructions above, but extract the .pak file from the [*zip*](https://github.com/CanadianVice/Starbound__FU_Protogen-Race-Patch_UNOFFICIAL/releases/tag/v1.0.0) here instead.
+- Steam: See the [*Steam Workshop*](https://steamcommunity.com/sharedfiles/filedetails/?id=2885865644) FR-standalone patch. Note: Does NOT work together with the mainline. Only for Frackin' Races.
+  If you try to use both versions of this patch, you *will* crash.
   
-Preview:
+## Preview
 <div align="center">
 <img src="https://github.com/CanadianVice/FU_Protogen-Race-Patch_UNOFFICIAL/blob/main/related_files/steam_listing/stats_ss.png" alt="Screenshot of Protogen Species Description" width="337px" height="337px">
 </div>
