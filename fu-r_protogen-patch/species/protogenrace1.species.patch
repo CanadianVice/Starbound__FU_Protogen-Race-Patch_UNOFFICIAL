@@ -12,17 +12,16 @@ Code or creed, there's one certainty: they thrive on the search.
 
 ^darkcyan;=== Racial Traits ===^reset;
 [ Diet: Generalized Omnivore | Starvation: ~25 minutes ]
-[ Base: ^pink;+10% Max HP^reset;, ^green;+20% E^reset;, ^green;+10%^reset; ^yellow;+^reset;^green;E^reset;, ^red;+15% DMG^reset;, ^#C9DCE2;+35% Oxygen^reset;
-             -15% Fall, ^green;-15% E^reset;^red;-Blk^reset;, +10% Jump, ^gray;+2.5 Def^reset; ]
-[ ^green;R+^reset;: ^orange;+15% Fire^reset;, ^cyan;+15% Ice^reset;, ^red;+15% DMG^reset;, -25% KnockB,  ]
-[ ^red;W-^reset;: ^#DADB62;-25% Rad^reset;, ^violet;-15% Elec^reset;, ^magenta;-10% Cosmic^reset; ]
-[ ^lightgray;Immune^reset;: ^darkgreen;Poison^reset;, ^#9462DB;In^reset;^#DB62B9;sa^reset;^#ECC700;ni^reset;^red;ty^reset;, ^#F2BD03;Sandstorm^reset;, Mod. Temp, Terrain Slows ]
-[ Techs: +15% Jump, +20% Dash, +15% Def ]
+[ Base: ^green;+10% E^reset;, ^green;+10%^reset; ^yellow;+^reset;^green;E^reset;, ^#C9DCE2;+15% Oxygen^reset;
+             -10% Fall, ^green;-33% E^reset;^red;-Blk^reset;, +10% Jump, ^gray;+2.5 Def^reset; ]
+[ ^green;R+^reset;: ^red;+5% DMG^reset;, -25% KnockB,  ]
+[ ^red;W-^reset;: ^#DADB62;-20% Rad^reset;, ^violet;-10% Elec^reset;, ^magenta;-20% Cosmic^reset; ]
+[ ^lightgray;Immune^reset;: ^darkgreen;Poison^reset;, ^#9462DB;In^reset;^#DB62B9;sa^reset;^#ECC700;ni^reset;^red;ty^reset;, Mod. Temp, Terrain Slows ]
+[ Techs: +5% Jump, +5% Dash, +10% Def ]
 ^darkcyan;=== Equipment Traits ===^reset;
-[ Energy: ^red;+30% DMG^reset;, ^#FF9A9A;+10% Crit%^reset;, ^#7B0000;+10% CritX^reset;, ^green;+40% E^reset; ]
-[ Magnorb: ^red;+15% DMG^reset;, ^#FF9A9A;+10% Crit%^reset;, ^#7B0000;+5% CritX^reset;, ^gray;+5 Def^reset; ]
-[ Sniper: ^red;+30% DMG^reset;, ^#FF9A9A;+30% Crit%^reset;, ^#7B0000;+40% CritX^reset;, ^green;+40% E^reset;, -20% E^reset;^red;-Blk^reset; ]
-[ Protogen: ^red;+15% DMG^reset;, ^#FF9A9A;+35% Crit%^reset;, ^#7B0000;+25% CritX^reset; ]
-[ Precursor: ^red;+15% DMG^reset;, ^#7B0000;+30% CritX^reset;, ^green;+50% E^reset; ]"
+[ Energy: ^red;+5% DMG^reset;, ^#8391A1;+25% Ammo^reset;, ^green;+50% E^reset; ]
+[ Magnorb: ^red;+15% DMG^reset;, ^#7B0000;+8% CritX^reset;, ^gray;+5 Def^reset; ]
+[ Protogen: ^red;+5% DMG^reset;, ^#FF9A9A;+5% Crit%^reset;, ^#7B0000;+15% CritX^reset; ]
+[ Precursor: ^red;+10% DMG^reset;, ^#7B0000;+15% CritX^reset;, ^green;+50% E^reset; ]"
     }
 ]
