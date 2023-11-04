@@ -198,7 +198,7 @@
 			"stats": [
 				{
 					"stat": "powerMultiplier",
-					"baseMultiplier": 1.15
+					"baseMultiplier": 1.08
 				},
 				{
 					"stat": "maxEnergy",
@@ -238,7 +238,7 @@
 			],
 			"stats": [{
 					"stat": "powerMultiplier",
-					"amount": 1.10
+					"amount": 1.08
 				},
 				{
 					"stat": "critDamage",

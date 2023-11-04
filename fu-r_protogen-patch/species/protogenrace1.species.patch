@@ -16,12 +16,13 @@ Code or creed, there's one certainty: they thrive on the search.
              -10% Fall, ^green;-33% E^reset;^red;-Blk^reset;, +10% Jump, ^gray;+2.5 Def^reset; ]
 [ ^green;R+^reset;: ^red;+5% DMG^reset;, -25% KnockB,  ]
 [ ^red;W-^reset;: ^#DADB62;-20% Rad^reset;, ^violet;-10% Elec^reset;, ^magenta;-20% Cosmic^reset; ]
-[ ^lightgray;Immune^reset;: ^darkgreen;Poison^reset;, ^#9462DB;In^reset;^#DB62B9;sa^reset;^#ECC700;ni^reset;^red;ty^reset;, Mod. Temp, Terrain Slows ]
+[ ^lightgray;Immune^reset;: ^darkgreen;Poison^reset;, ^#9462DB;In^reset;^#DB62B9;sa^reset;^#ECC700;ni^reset;^red;ty^reset;,
+Terrain slows ]
 [ Techs: +5% Jump, +5% Dash, +10% Def ]
 ^darkcyan;=== Equipment Traits ===^reset;
 [ Energy: ^red;+5% DMG^reset;, ^#8391A1;+25% Ammo^reset;, ^green;+50% E^reset; ]
-[ Magnorb: ^red;+15% DMG^reset;, ^#7B0000;+8% CritX^reset;, ^gray;+5 Def^reset; ]
+[ Magnorb: ^red;+8% DMG^reset;, ^#7B0000;+8% CritX^reset;, ^gray;+5 Def^reset; ]
 [ Protogen: ^red;+5% DMG^reset;, ^#FF9A9A;+5% Crit%^reset;, ^#7B0000;+15% CritX^reset; ]
-[ Precursor: ^red;+10% DMG^reset;, ^#7B0000;+15% CritX^reset;, ^green;+50% E^reset; ]"
+[ Precursor: ^red;+8% DMG^reset;, ^#7B0000;+15% CritX^reset;, ^green;+50% E^reset; ]"
     }
 ]
