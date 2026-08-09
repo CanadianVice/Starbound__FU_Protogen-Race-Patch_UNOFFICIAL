@@ -1,0 +1,13 @@
+[
+  {
+    "op": "test",
+    "path": "/colonyTags",
+    "inverse": true,
+    "value": "bed"
+  },
+  {
+    "op": "add",
+    "path": "/colonyTags/-",
+    "value": "bed"
+  }
+]
